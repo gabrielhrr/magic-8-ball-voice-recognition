@@ -11,6 +11,9 @@ dependencies:
     sdk: flutter
 
   cupertino_icons: ^0.1.2
+  speech_to_text: ^4.2.2
+  highlight_text: ^1.0.0
+  avatar_glow: ^2.0.1
 
 dev_dependencies:
   flutter_test:
